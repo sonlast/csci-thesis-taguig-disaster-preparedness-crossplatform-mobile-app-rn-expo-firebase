@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Taguig Disaster Access",
+    "slug": "Qat",
+    "version": "1.1.2",
+    "orientation": "portrait",
+    "icon": "./app/assets/app-icons-xplatform/icon2.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./app/assets/app-icons-xplatform/splash3.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/app-icons-xplatform/icon2.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.i_son.lastimosa.Qat"
+    },
+    "web": {
+      "favicon": "./assets/icon2.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "183b9b74-b620-45cb-aba3-262d1940aa0d"
+      }
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow ${PRODUCT NAME} to access your location"
+        }
+      ]
+    ]
+  }
+}
