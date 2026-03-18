@@ -1,5 +1,4 @@
-# Project's Title
-**Taguig Disaster Access (Qat)**
+# Taguig Disaster Access (Qat)
 A comprehensive cross-platform mobile application developed to enhance disaster preparedness and emergency response for the residents of Taguig City.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
