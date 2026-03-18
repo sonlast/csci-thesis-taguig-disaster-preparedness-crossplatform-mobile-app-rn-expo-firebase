@@ -2,6 +2,11 @@
 **Taguig Disaster Access (Qat)**
 A comprehensive cross-platform mobile application developed to enhance disaster preparedness and emergency response for the residents of Taguig City.
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
+
 ## Project Description
 
 The Taguig Disaster Access (Qat) application serves as a critical bridge between citizens and emergency services. In the event of a natural disaster or local emergency, timely communication and accurate information save lives. This application was developed as a thesis project to address the need for a centralized, easy-to-use platform for the residents of Taguig.
@@ -24,11 +29,11 @@ The Taguig Disaster Access (Qat) application serves as a critical bridge between
 *   **Future Goals:** Implementing Google Maps API for more detailed routing, adding a more detailed admin dashboard for emergency responders, and integrating Push Notifications for real-time disaster alerts.
 
 ## Table of Contents
-- [1. Project Description](#2-project-description)
-- [2. How to Install and Run the Project](#4-how-to-install-and-run-the-project)
-- [3. How to Use the Project](#5-how-to-use-the-project)
-- [4. Include Credits](#6-include-credits)
-- [5. Add a License](#7-add-a-license)
+- [Project Description](#project-description)
+- [How to Install and Run the Project](#how-to-install-and-run-the-project)
+- [How to Use the Project](#how-to-use-the-project)
+- [Credits](#credits)
+- [License](#license)
 
 ## How to Install and Run the Project
 
